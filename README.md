@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+You need to install all packages using this command `npm i` or `yarn` 
+
+### `npm run storybook` or `yarn storybook`
+
+Runs the storybook.\
+Open [http://localhost:6006](http://localhost:6006) to view it in your browser.
+
 ### `npm start`
 
 Runs the app in the development mode.\
