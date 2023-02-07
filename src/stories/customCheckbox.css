@@ -1,0 +1,29 @@
+.ant-checkbox.css-dev-only-do-not-override-ixblex {
+    margin-right: 12px;
+}
+
+.ant-checkbox-wrapper.css-dev-only-do-not-override-ixblex {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.ant-checkbox .ant-checkbox-inner {
+    width: 18px;
+    height: 18px;
+    margin-top: -4px;
+    border-radius: 3px;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 0.6);
+}
+.ant-checkbox.ant-checkbox-checked .ant-checkbox-inner {
+    border-color: #1976D2;
+    background: #1976D2;
+}
+.ant-checkbox .ant-checkbox-inner:after {
+    top: 6px;
+    left: 2.5px;
+    width: 6px;
+    height: 11px;
+}

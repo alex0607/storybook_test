@@ -1,0 +1,29 @@
+.ant-input-affix-wrapper.custom-search-field.css-dev-only-do-not-override-ixblex {
+    display: flex;
+    padding: 12px;
+    border: none;
+    border-radius: 6px 6px 0 0;
+    border-bottom: 1px solid #DFE1E6;
+}
+
+.custom-search-field .ant-input.ant-input-lg.css-dev-only-do-not-override-ixblex {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+    margin-left: 16px;
+}
+
+.custom-search-field .ant-input.ant-input-lg.css-dev-only-do-not-override-ixblex::placeholder {
+    color: #C1C7D0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+}
+
+.custom-search-field .custom-search-field__icon {
+    width: 18px;
+    height: 18px;
+}
