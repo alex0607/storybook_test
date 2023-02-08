@@ -18,6 +18,10 @@
     line-height: 150%;
 }
 
+.accordion .ant-collapse-content .ant-collapse-content-box {
+    padding: 0;
+}
+
 .accordion .ant-collapse-item .anticon.anticon-right.ant-collapse-arrow {
     transform: rotate(90deg);
 }

@@ -9,6 +9,11 @@
     width: 100%;
 }
 
+.ant-checkbox.css-dev-only-do-not-override-ixblex.ant-checkbox-checked:after {
+    height: 18px;
+    top: -4px;
+}
+
 .ant-checkbox .ant-checkbox-inner {
     width: 18px;
     height: 18px;
